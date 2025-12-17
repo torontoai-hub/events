@@ -12,8 +12,9 @@
 
 ### Slide Decks
 
-* **Moorcheh.ai Demo – Dec 9, 2025** (PDF, 1.84 MB)
-* **TorontoAI Demo Night – Dec 9, 2025** (PDF, 8.15 MB)
+* [MoorchehAI Demo](Moorcheh.ai demo_Dec 9 2025.pdf)
+
+* [FalconsAI FearSense App](TorontoAI - Demo Night Dec 9 2025.pdf)
 
 ### Full Recordings
 
