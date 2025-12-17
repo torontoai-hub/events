@@ -12,9 +12,9 @@
 
 ### Slide Decks
 
-* [MoorchehAI Demo](2025-12-09-demo-night-ai-healthcare-apps/Moorcheh.ai%20demo_Dec%209%202025.pdf)
+* [MoorchehAI Demo](Moorcheh.ai%20demo_Dec%209%202025.pdf)
 
-* [FalconsAI FearSense App](2025-12-09-demo-night-ai-healthcare-apps/FalconsAI_demo_Dec_9_2025.pdf)
+* [FalconsAI FearSense App](FalconsAI_demo_Dec_9_2025.pdf)
 
 ### Full Recordings
 
