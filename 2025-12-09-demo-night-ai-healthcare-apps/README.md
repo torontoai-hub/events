@@ -12,7 +12,7 @@
 
 ### Slide Decks
 
-* [MoorchehAI Demo](Moorcheh.ai%20demo_Dec%209%202025.pdf)
+* [MoorchehAI Demo](Moorcheh.ai_demo_Dec_9_2025.pdf)
 
 * [FalconsAI FearSense App](FalconsAI_demo_Dec_9_2025.pdf)
 
