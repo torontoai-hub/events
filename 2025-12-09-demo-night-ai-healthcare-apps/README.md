@@ -1,8 +1,3 @@
-Below is the **same content rewritten cleanly in GitHub README format** (Markdown), optimized for repositories and long-form technical documentation.
-I’ve kept it concise, scannable, and developer-friendly.
-
----
-
 # Demo Night Recap: From Fear Detection to Production-Ready AI Agents
 
 **Demo Night – Build AI Healthcare Apps**
